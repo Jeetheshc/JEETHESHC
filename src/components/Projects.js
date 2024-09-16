@@ -3,7 +3,7 @@ import React from 'react';
 
 const Projects = () => {
   return (
-    <section className="p-5 bg-light">
+    <section className="p-5 bg-dark text-light">
       <div className="container">
         <h2>Projects</h2>
         <ul className="list-unstyled">
